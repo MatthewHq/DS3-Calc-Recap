@@ -2,7 +2,8 @@
 Dark Souls 3 Calculator Recap
 
 **28,904 Downloads** 11/21/2021
-![image](https://i.imgur.com/moZcAKW.png)
+![image](https://i.imgur.com/AAQErd6.png)
+
 
 
 Old Project of mine, lost in old broken HDD.
