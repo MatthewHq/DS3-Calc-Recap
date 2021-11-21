@@ -13,8 +13,11 @@ Luckily since its Java the code is intact
 
 
 Predecessor C# Dark Souls 2 Calculator made as well. Much uglier, commandline program.
+
 [Location](https://darksouls2.wiki.fextralife.com/Stat+Calculators)
+
 [Direct Download](https://www.mediafire.com/file/s950b725u8vnain/Portalz_DS2_SoulCalc_1.2.exe/file)
+
 10,879 Downloads
 
 [![video discussion](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/YTLink.png)](https://youtu.be/rCv-Rt_5bC4?t=323)
