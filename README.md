@@ -21,6 +21,6 @@ Predecessor C# Dark Souls 2 Calculator made as well. Much uglier, commandline pr
 10,879 Downloads
 
 [![video discussion](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/YTLink.png)](https://youtu.be/rCv-Rt_5bC4?t=323)
-[![image](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/1.png)]
-[![image](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/3.png)]
-[![image](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/2.png)]
+![image](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/1.png)
+![image](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/3.png)
+![image](https://github.com/MatthewHoque/DS3CalcRecap/blob/main/ReadMeSources/2.png)
