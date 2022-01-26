@@ -1,4 +1,4 @@
-# DS3CalcRecap
+# Dark Souls 3 Soul Calculator
 
 ### 28,904 Downloads 11/21/2021
 
