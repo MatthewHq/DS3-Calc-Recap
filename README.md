@@ -7,7 +7,7 @@
 
 
 Old Project of mine, lost in old broken HDD.
-Luckily since its Java the code is intact
+Luckily since its Java the code is intact. Project consisted of using Excel to make best fit lane based off gathered data points to make a model prediction level step curve. Made into a clean looking Java UI with info and update features made utilizing Dropbox API as a way to "host" a simple JSON file.
 
 [Original Posting Location](https://darksouls3.wiki.fextralife.com/Build+Calculator)
 
