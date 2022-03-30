@@ -1,6 +1,6 @@
 # Dark Souls 3 Soul Calculator
 
-### 28,904 Downloads 11/21/2021
+### 29,259 Downloads 3/30/2022
 
 ![image](https://i.imgur.com/AAQErd6.png)
 
